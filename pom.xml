@@ -22,6 +22,7 @@
         <module>Rafaelg</module>
         <module>Wilker</module>
         <module>Yuri</module>
+        <module>Braully</module>
     </modules>
     <dependencies>
         <dependency>
