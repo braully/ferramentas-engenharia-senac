@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>br.senac.go</groupId>
+    <artifactId>ferramentas-engenharia-senac</artifactId>
+    <version>1.0.0</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>Adriel</module>
+        <module>Anibal</module>
+        <module>Brendon</module>
+        <module>Fabioa</module>
+        <module>Fabioc</module>
+        <module>Iury</module>
+        <module>Izaias</module>
+        <module>Joaoc</module>
+        <module>Joaor</module>
+        <module>Maidno</module>
+        <module>Marcelo</module>
+        <module>Nicholas</module>
+        <module>Rafaelc</module>
+        <module>Rafaelg</module>
+        <module>Wilker</module>
+        <module>Yuri</module>
+    </modules>
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.12</version>
+            <scope>test</scope>
+            <type>jar</type>
+        </dependency>
+    </dependencies>
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+</project>
