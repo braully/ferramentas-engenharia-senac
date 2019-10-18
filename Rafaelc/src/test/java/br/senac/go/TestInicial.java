@@ -6,7 +6,7 @@ public class TestInicial {
 
     @Test
     public void testePrevio() throws Exception {
-        Class.forName("br.senac.go.HelloWord");
+        Class.forName("br.senac.go.HelloWorld");
     }
 
 }
